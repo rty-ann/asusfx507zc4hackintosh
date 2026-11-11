@@ -11,6 +11,9 @@
   <b>Experimental OpenCore EFI configuration enabling Full Hardware Acceleration (Metal 2) on Intel 12th Gen Alder Lake-H with 144Hz internal display.</b>
 </p>
 
+<img width="1194" height="711" alt="photo_2026-11-11_20-34-41" src="https://github.com/user-attachments/assets/2e9cc608-d576-4367-83c9-e5b8728b9c89" />
+
+
 </div>
 
 ---
