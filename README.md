@@ -89,6 +89,7 @@ To ensure iCloud, iMessage, and App Store work (and to prevent Apple ID blacklis
    - `SystemSerialNumber` : *(Your generated Serial)*
    - `MLB` : *(Your generated Board Serial)*
    - `SystemUUID` : *(Your generated SmUUID)*
+   - `ROM` : *(Your generated ROM)*
 6. Save your `config.plist`.
 
 ---
