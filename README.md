@@ -3,7 +3,7 @@
 <div align="center">
 
 ![macOS Version](https://img.shields.io/badge/macOS-Sequoia%2015.8.3-black?style=for-the-badge&logo=apple&logoColor=white)
-![OpenCore](https://img.shields.io/badge/OpenCore-1.0.x-blue?style=for-the-badge&logo=target)
+![OpenCore](https://img.shields.io/badge/OpenCore-1.0.8%20DEBUG-blue?style=for-the-badge&logo=target)
 ![iGPU Status](https://img.shields.io/badge/Iris%20Xe%20(80EU)-Accelerated%20%40%20144Hz-success?style=for-the-badge&logo=intel)
 ![Project State](https://img.shields.io/badge/Status-WIP%20%2F%20Breakthrough-orange?style=for-the-badge)
 
@@ -111,12 +111,12 @@ To ensure iCloud, iMessage, and App Store work (and to prevent Apple ID blacklis
 
 ## 👏 Credits & Acknowledgments
 
-[Acidanthera](https://github.com/acidanthera) — For OpenCore, Lilu, VirtualSMC, and essential kernel documentation.
-[b00t0x](https://github.com/b00t0x/WhateverXe) — For creating the groundbreaking WhateverXe project.
-[@renedis](https://github.com/renedis) — For the Mode 0 hand-off porting and display wake research branch.
-[@Thatisjigen](https://github.com/Thatisjigen) — For the original PR #38 patch admitting Mode 0 eDP ports.
+- [Acidanthera](https://github.com/acidanthera) — For OpenCore, Lilu, VirtualSMC, and essential kernel documentation.
+- [b00t0x](https://github.com/b00t0x/WhateverXe) — For creating the groundbreaking WhateverXe project.
+- [@renedis](https://github.com/renedis) — For the Mode 0 hand-off porting and display wake research branch.
+- [@Thatisjigen](https://github.com/Thatisjigen) — For the original PR #38 patch admitting Mode 0 eDP ports.
 
-The entire **r/hackintosh** community for endless testing and reverse engineering.
+- The entire **r/hackintosh** community for endless testing and reverse engineering.
 
 ---
 
