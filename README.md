@@ -121,5 +121,4 @@ The entire **r/hackintosh** community for endless testing and reverse engineerin
 ---
 
 ```
-
 btw, readme made by ai (googleaistudio) :3 
