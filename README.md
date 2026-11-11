@@ -71,7 +71,7 @@ Ensure the following toggles are set in your ASUS BIOS before booting:
 | :--- | :--- | :--- |
 | **Fast Boot** | `Disabled` | Prevents skip of critical GOP initialization |
 | **Secure Boot** | `Disabled` | Mandatory for OpenCore |
-| **VTD (VT-d)** | `Disabled` | 
+| **VTD (VT-d)** | `Disabled` | idk y when i switch it on the opencore freezes at watchdog
 | **Hyper-Threading** | `Enabled` | Fixed EXIT.BS:START by adding 80,FF to Kernel-Emulate- Cpuid1Data, Cpuid1Mask|
 
 ---
@@ -97,12 +97,15 @@ To ensure iCloud, iMessage, and App Store work (and to prevent Apple ID blacklis
 
 ```
 -v debug=0x100 keepsyms=1 -allow3d -disablegfxfirmware -igfxdvmt -vi2c-force-polling ctrsmt=full -wexdbg -wex-display13-trace
+```
+
+```
 -allow3d : Forces Metal/3D acceleration activation.
 -disablegfxfirmware : Disables native Apple graphics driver.
 
 (-v, debug=0x100, keepsyms=1, -wexdbg, -wex-display13-trace are made for debug, so not nesseccary ig)
-
 ```
+
 
 ---
 
