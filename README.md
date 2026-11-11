@@ -1,4 +1,4 @@
-# ⚡️ ASUS TUF Gaming F15 (FX507ZC4) — macOS Sequoia Hackintosh
+# ASUS TUF Gaming F15 (FX507ZC4) — macOS Sequoia Hackintosh
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 > [!WARNING]
 > **EXPERIMENTAL RELEASE / WORK IN PROGRESS**  
-> This setup achieves a previously "impossible" milestone: **full Metal 2 acceleration at 144Hz on an Alder Lake-H internal screen**. However, it is currently in active development. Moving heavy vector UI windows (such as App Store) can cause a system hard-lock due to early GPU scheduler patches. Daily-driver stability is being worked on.
+> This setup achieves a previously "impossible" milestone: **full Metal 2 acceleration at 144Hz on an Alder Lake-H internal screen**. However, it is currently in wip, but ig i won't do smth with that, sr. Moving heavy vector UI windows (such as App Store) can cause a system hard-lock due to early GPU scheduler patches. Daily-driver stability is being worked on.
 
 ---
 
