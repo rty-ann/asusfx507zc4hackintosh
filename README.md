@@ -58,9 +58,9 @@ Previously, Alder Lake-H laptops were stuck in a **7MB FB-only safe mode** due t
 - **Audio:** Realtek Audio via AppleALC.
 - **Keyboard:** Just working keyboard, nothing more, fn?? did not test. uh, do not have asussmc.kext, so ig no, just add it and it should work
 
-### ⚠️ In Progress / Known Issues
-- **Window Movement Hard-Lock:** Dragging complex Metal-rendered windows (e.g. App Store) can cause a GPU scheduler crash / kernel freeze.
-- **Sleep / Wake:** Currently disabled or unstable due to memory payload signature differences between macOS Tahoe and Sequoia 15.8.3. \ untested btw
+### ⚠️ Known Issues
+- **Window Movement Hard-Lock:** Dragging complex Metal-rendered windows (e.g. App Store) can cause a GPU scheduler crash / kernel freeze, or, may be cause of my test drive - HDD.. :<
+- **Sleep / Wake??** Currently disabled or unstable due to memory payload signature differences between macOS Tahoe and Sequoia 15.8.3. \ untested btw
 - **AppleIntelTGLCompat:** Must be disabled or handled carefully to avoid early boot AMFI panics.
 - touchpad?? idk why it does not work, so lazy to work with it..
 
