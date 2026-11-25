@@ -60,6 +60,9 @@ Previously, Alder Lake-H laptops were stuck in a **7MB FB-only safe mode** due t
 - **Trackpad** all of gestures
 
 ### ⚠️ Known Issues
+hbernation/sleep/wake, waiting for updates to wahteverXE
+airplay DRM(am, tv) causes bcs of whateverXE too not my issue
+
 nothing ig.. if you have any issues, please report in [repo issues!](https://github.com/rty-ann/asusfx507zc4hackintosh/issues)
 
 ---
