@@ -56,7 +56,7 @@ Previously, Alder Lake-H laptops were stuck in a **7MB FB-only safe mode** due t
 - **Display Refresh Rate:** Native **144Hz** detected and smoothly running.
 - **CPU Management:** P-Core & E-Core topology recognized.
 - **Audio:** Realtek Audio via AppleALC.
-- **Keyboard:** Just working keyboard, nothing more, fn too btw
+- **Keyboard:** Just working keyboard, nothing more, fn too btw, keyboard brightness trackpad on/off and etc taht does not have access macos does not work
 - **Trackpad** all of gestures
 
 ### ⚠️ Known Issues
