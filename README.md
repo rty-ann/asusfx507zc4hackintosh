@@ -56,13 +56,11 @@ Previously, Alder Lake-H laptops were stuck in a **7MB FB-only safe mode** due t
 - **Display Refresh Rate:** Native **144Hz** detected and smoothly running.
 - **CPU Management:** P-Core & E-Core topology recognized.
 - **Audio:** Realtek Audio via AppleALC.
-- **Keyboard:** Just working keyboard, nothing more, fn?? did not test. uh, do not have asussmc.kext, so ig no, just add it and it should work
+- **Keyboard:** Just working keyboard, nothing more, fn too btw
+- **Trackpad** all of gestures
 
 ### ⚠️ Known Issues
-- **Window Movement Hard-Lock:** Dragging complex Metal-rendered windows (e.g. App Store) can cause a GPU scheduler crash / kernel freeze, or, may be cause of my test drive - HDD.. :<
-- **Sleep / Wake??** Currently disabled or unstable due to memory payload signature differences between macOS Tahoe and Sequoia 15.8.3. \ untested btw
-- **AppleIntelTGLCompat:** Must be disabled or handled carefully to avoid early boot AMFI panics.
-- touchpad?? idk why it does not work, so lazy to work with it..
+nothing ig.. if you have any issues, please report in [repo issues!](https://github.com/rty-ann/asusfx507zc4hackintosh/issues)
 
 ---
 
